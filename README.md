@@ -21,3 +21,9 @@ pip install pygame
 Ejecuta el script `DinosaurGame.py` para comenzar a jugar. Controla el dinosaurio usando la tecla de espacio para saltar y evita los cactus para obtener la puntuación más alta.
 
 ¡Diviértete jugando al Dinosaur Game!
+
+## Contributors
+
+- [ Francisco Vilahermosa @franbucho ](https://github.com/Franbucho)
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request.
